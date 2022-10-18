@@ -1,4 +1,4 @@
-bbd80f370447c41580cbdee73b48dcea *DESCRIPTION
+929637eaf4188cd691ee7825ac0d7133 *DESCRIPTION
 606ce84791e0412e1ef1f0b244384653 *NAMESPACE
 159f61440913f2bc77fcd9d6cbaded92 *R/PACE.R
 3900a433df5276a2318fcf970ccd36e0 *R/RcppExports.R
@@ -41,5 +41,5 @@ b3266987c1c3aa05b2babbb41cc68471 *man/weightMatrix.Rd
 2fa32d0fe9d062486c5fb9681a821f6c *man/weightVector.Rd
 2560a789ebb7a038105b462181afcd89 *src/RcppExports.cpp
 20a04155af51fb8fbb1d06669baec853 *src/rcpp_cov_est.cpp
-3b1a0fc4980b4c0d9b87e21df03ad6e4 *src/rcpp_cov_est1d.cpp
+90c9fad7fb625d13619a277407d3794d *src/rcpp_cov_est1d.cpp
 1b651a9cff061f17e53b6ae143cd47ca *src/rcpp_mean_est.cpp
